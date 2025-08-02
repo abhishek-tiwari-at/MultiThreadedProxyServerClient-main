@@ -7,8 +7,6 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 - [Project Theory](https://github.com/abhishek-tiwari-at/MultiThreadedProxyServerClient-main#project-theory)
 - [How to Run](https://github.com/abhishek-tiwari-at/MultiThreadedProxyServerClient-main#How-to-Run)
-- [Demo](https://github.com/abhishek-tiwari-at/MultiThreadedProxyServerClient-main#Demo)
-- [Contributing](https://github.com/abhishek-tiwari-at/MultiThreadedProxyServerClient-main#contributing)
 
 ## Project Theory
 
